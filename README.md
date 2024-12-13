@@ -4,9 +4,9 @@ Proyecto de Programacion en php
 Este es un proyecto de programación en PHP desarrollado como parte de la asignatura IAW (Implatación de Aplicaciones Web). Su propósito principal es utilizar todo lo aprendido esta asignatura.
 
 ### Tecnologías utilizadas
-*PHP: Lenguaje principal del proyecto.
-*MySQL: Base de datos para almacenar información.
-*HTML/CSS: Tecnologías para el diseño y funcionalidad del frontend.
+- PHP: Lenguaje principal del proyecto.
+- MySQL: Base de datos para almacenar información.
+- HTML/CSS: Tecnologías para el diseño y funcionalidad del frontend.
 
 ### Requirimientos
 Necesitamos un servidor local que tenga instalado Apache con la librería de PHP. Además, en el mismo servidor debe estar instalada una base de datos llamada Proyecto_apa, a la que se debe poder acceder con un usuario (adrianp) y una contraseña (usuario).
