@@ -12,7 +12,7 @@ Necesitamos un servidor local que tenga instalado Apache con la librería de PHP
 
 El usuario debe poder ingresar a la aplicación web a través del navegador. Para ello, debe escribir en la URL: http://localhost/Proyecto_apa. Cuando se solicite el inicio de sesión, debe ingresar el usuario (root) y la contraseña (root). Una vez introducido nos encontraremos dentro de la aplicación
 
-El proyecto tiene distintas funcionalidades:
+##### El proyecto tiene distintas funcionalidades:
 - Añadir registro
 - Listar
 - Borrar
